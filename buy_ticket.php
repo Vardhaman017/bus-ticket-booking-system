@@ -81,7 +81,7 @@ if (isset($_POST['buy'])) {
   </div>
 </form>
 <div class="popup" id="seatViewer"></div>
-<div class="loader text-center" id="wait"><img src="/img/bus-loader.gif" alt="Wait..."/></div>
+<div class="loader text-center" id="wait"><img src="img/bus-loader.gif" alt="Wait..."/></div>
 <div class="table-con">
 <div class="row">
   <div class="col-sm-2">Sl.</div>
